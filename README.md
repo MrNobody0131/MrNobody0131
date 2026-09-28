@@ -3,5 +3,4 @@
 <!--
 **MrNobody0131/MrNobody0131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-<img src="assets/github-snake.svg" alt="Snake animation" />
+![Snake](https://githubusercontent.com)
